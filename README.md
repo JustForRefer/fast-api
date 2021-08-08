@@ -1,5 +1,5 @@
 ### fast-api
-A basic fast-api web application.
+A basic fast-api web application, to demonstrate the working of fast-api.
 
 ### Installation
 
