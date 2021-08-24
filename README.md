@@ -7,7 +7,11 @@ A basic fast-api web application, to demonstrate the working of fast-api.
    ```sh
    git clone https://github.com/Tanmay000009/fast-api
    ```
-2. Open folder on your machine
+2. Move to cloned directory
+   ```sh
+   cd ./fast-api
+   ```
+3. Install required pip libraries and start the server
    ```sh 
    pip install -r requirements  
    uvicorn app:app --reload
